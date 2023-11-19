@@ -1,0 +1,46 @@
+#logo{
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cate{
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+#greeting{
+    text-align: center;
+    font-size: 2.5rem;
+}
+#car{
+    font-size: 1.3rem;
+}
+#navmenu{
+    margin: 50px !important ;
+}
+.product-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+
+.product-item {
+  margin-bottom: 50px;
+}
+
+.product-image {
+  width: 340px
+}
+
+.name{
+    font-size: 1.2rem;
+}
+#price{
+    font-size: 1.1rem;
+}
+#buttn{
+
+    width: 133px;
+
+}
